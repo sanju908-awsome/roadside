@@ -1,0 +1,6 @@
+{
+  "name": "ROAD//SIDE",
+  "description": "On-demand roadside vehicle assistance connecting stranded motorists with nearby mechanics with live tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
